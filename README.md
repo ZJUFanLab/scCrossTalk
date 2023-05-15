@@ -1,5 +1,5 @@
 # scCrossTalk
-Please see the latest version in [here](https://github.com/multitalk/scCrossTalk)
+Please see the revised version in [here](https://github.com/multitalk/scCrossTalk)
 
 # Install
 ```
