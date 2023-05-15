@@ -1,9 +1,5 @@
 # scCrossTalk
-Infer cell-cell communications based on CellTalkDB
-
-
-
-
+Please see the latest version in [here](https://github.com/multitalk/scCrossTalk)
 
 # Install
 ```
